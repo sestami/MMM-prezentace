@@ -1,0 +1,21 @@
+\frametitle{Příklad 2 (3)}
+\begin{lstlisting}[columns=flexible]
+#nejake dalsi funkce vypocitavajici napr. nove pocatecni podminky
+
+start=time.time()
+
+#Prvni cyklus=NAPLNOVANI
+k_t1,tau_t1,c_u_t1, vysledek_t1=vypocet_CN(T_t,pp,D_t,tolerance=0.01)
+animace(vysledek_t1,c_u_t1,c0,tau_t1,k_t1,'tekute', interval=1)
+#Urceni nove vnitrni okrajove podminky a pocatecni podminky
+c_u_t0,pp_t=urcit_nove_pp(k_t1,c_u_t1,vysledek_t1)
+#Druhy cyklus=VYPRAZDNOVANI
+k_t2,tau_t2,c_u_t2, vysledek_t2=vypocet_CN(T_t,pp_t,D_t,c_u=c_u_t0,c_v=0,tolerance=0.01)
+animace(vysledek_t2,c_u_t2,0,tau_t2,k_t2,'tekute', interval=1)
+#Vypocet hledanych dob
+t_t=k_t1*tau_t1+k_t2*tau_t2
+print("\nDoba experimentu pro tekute prostredi: "+str(t_t)+" s; "+str(round(t_t/60,3))+" min; "+str(round(t_t/3600,2))+" hod")
+
+stop=time.time()
+print('\nSpotrebovany cas celkove: '+str(stop-start))
+\end{lstlisting}
