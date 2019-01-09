@@ -1,5 +1,5 @@
 SyncTeX Version:1
-Input:1:/home/michal/Desktop/MMM/./prezentace.tex
+Input:1:/home/michal/Desktop/MMM/prezentace/./prezentace.tex
 Input:2:/usr/share/texmf-dist/tex/latex/beamer/beamer.cls
 Input:3:/usr/share/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
 Input:4:/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -185,11 +185,11 @@ Input:183:/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Input:184:/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Input:185:/usr/share/texmf-dist/tex/latex/base/tuenc.def
 Input:186:/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg
-Input:187:/home/michal/Desktop/MMM/./prezentace.aux
+Input:187:/home/michal/Desktop/MMM/prezentace/./prezentace.aux
 Input:188:/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Input:189:/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Input:190:/home/michal/Desktop/MMM/./prezentace.out
-Input:191:/home/michal/Desktop/MMM/./prezentace.out
+Input:190:/home/michal/Desktop/MMM/prezentace/./prezentace.out
+Input:191:/home/michal/Desktop/MMM/prezentace/./prezentace.out
 Input:192:/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Input:193:/usr/share/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
 Input:194:/usr/share/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
@@ -197,7 +197,7 @@ Input:195:/usr/share/texmf-dist/tex/latex/translator/translator-months-dictionar
 Input:196:/usr/share/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
 Input:197:/usr/share/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Input:198:/usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
-Input:199:/home/michal/Desktop/MMM/./prezentace.nav
+Input:199:/home/michal/Desktop/MMM/prezentace/./prezentace.nav
 Input:200:/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 Input:201:/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 Input:202:/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
@@ -213,7 +213,7 @@ Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!14743
+!14798
 {1
 [1,66:4736287,17900938:17266942,13164651,0
 (1,66:4736287,4736287:0,0,0
@@ -691,11 +691,8 @@ g1,83:6405276,12228526
 g1,83:7043466,12228526
 g1,83:7495271,12228526
 g1,83:9938912,12228526
-g1,83:12158420,12228526
-g1,83:14159103,12228526
-g1,83:16544941,12228526
-k1,83:19448083,12228526:2555146
-k1,83:22003229,12228526:2555146
+k1,83:16937497,12228526:5065732
+k1,83:22003229,12228526:5065732
 )
 (1,83:3175400,13319696:18827829,484246,120913
 (1,83:3175400,13319696:0,247726,0
@@ -791,10 +788,10 @@ g1,83:22003229,17900938
 ]
 h1,83:4736287,4736287:0,0,0
 ]
-!9403
+!9331
 }2
-Input:209:/home/michal/Desktop/MMM/./prezentace.vrb
-!61
+Input:209:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!72
 {3
 [1,104:4736287,17900938:17266942,13164651,0
 (1,104:4736287,4736287:0,0,0
@@ -1842,8 +1839,8 @@ h1,104:4736287,4736287:0,0,0
 ]
 !24564
 }3
-Input:210:/home/michal/Desktop/MMM/./prezentace.vrb
-!62
+Input:210:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!73
 {4
 [1,121:4736287,17900938:17266942,13164651,0
 (1,121:4736287,4736287:0,0,0
@@ -2467,8 +2464,8 @@ h1,121:4736287,4736287:0,0,0
 ]
 !14149
 }4
-Input:211:/home/michal/Desktop/MMM/./prezentace.vrb
-!62
+Input:211:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!73
 {5
 [1,154:4736287,17900938:17266942,13164651,0
 (1,154:4736287,4736287:0,0,0
@@ -6534,8 +6531,8 @@ h1,154:4736287,4736287:0,0,0
 ]
 !89248
 }5
-Input:212:/home/michal/Desktop/MMM/./prezentace.vrb
-!62
+Input:212:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!73
 {6
 [1,190:4736287,17900938:17266942,13164651,0
 (1,190:4736287,4736287:0,0,0
@@ -10202,8 +10199,8 @@ h1,206:4736287,4736287:0,0,0
 ]
 !9126
 }7
-Input:213:/home/michal/Desktop/MMM/./prezentace.vrb
-!61
+Input:213:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!72
 {8
 [1,240:4736287,17900938:17266942,13164651,0
 (1,240:4736287,4736287:0,0,0
@@ -12020,8 +12017,8 @@ h1,240:4736287,4736287:0,0,0
 ]
 !42131
 }8
-Input:214:/home/michal/Desktop/MMM/./prezentace.vrb
-!62
+Input:214:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!73
 {9
 [1,247:4736287,17900938:17266942,13164651,0
 (1,247:4736287,4736287:0,0,0
@@ -12358,8 +12355,8 @@ h1,247:4736287,4736287:0,0,0
 ]
 !7247
 }9
-Input:215:/home/michal/Desktop/MMM/./prezentace.vrb
-!61
+Input:215:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!72
 {10
 [1,281:4736287,17900938:17266942,13164651,0
 (1,281:4736287,4736287:0,0,0
@@ -14953,8 +14950,8 @@ h1,281:4736287,4736287:0,0,0
 ]
 !62983
 }10
-Input:216:/home/michal/Desktop/MMM/./prezentace.vrb
-!63
+Input:216:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!74
 {11
 [1,309:4736287,17900938:17266942,13164651,0
 (1,309:4736287,4736287:0,0,0
@@ -17963,8 +17960,8 @@ h1,318:4736287,4736287:0,0,0
 ]
 !5793
 }12
-Input:217:/home/michal/Desktop/MMM/./prezentace.vrb
-!62
+Input:217:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!73
 {13
 [1,340:4736287,17900938:17266942,13164651,0
 (1,340:4736287,4736287:0,0,0
@@ -19908,8 +19905,8 @@ h1,340:4736287,4736287:0,0,0
 ]
 !45467
 }13
-Input:218:/home/michal/Desktop/MMM/./prezentace.vrb
-!63
+Input:218:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!74
 {14
 [1,367:4736287,17900938:17266942,13164651,0
 (1,367:4736287,4736287:0,0,0
@@ -23493,8 +23490,8 @@ h1,367:4736287,4736287:0,0,0
 ]
 !78521
 }14
-Input:219:/home/michal/Desktop/MMM/./prezentace.vrb
-!63
+Input:219:/home/michal/Desktop/MMM/prezentace/./prezentace.vrb
+!74
 {15
 [1,390:4736287,17900938:17266942,13164651,0
 (1,390:4736287,4736287:0,0,0
@@ -26919,9 +26916,9 @@ g1,420:22003229,17900938
 ]
 !9658
 }18
-Input:220:/home/michal/Desktop/MMM/./prezentace.aux
-!62
+Input:220:/home/michal/Desktop/MMM/prezentace/./prezentace.aux
+!73
 Postamble:
-Count:26666
+Count:26663
 !27
 Post scriptum:
